@@ -1,0 +1,7 @@
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\HW2_sabid\bin\Debug\HW2_sabid.exe.config
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\HW2_sabid\bin\Debug\HW2_sabid.exe
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\HW2_sabid\bin\Debug\HW2_sabid.pdb
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\HW2_sabid\obj\Debug\HW2_sabid.csproj.AssemblyReference.cache
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\HW2_sabid\obj\Debug\HW2_sabid.csproj.CoreCompileInputs.cache
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\HW2_sabid\obj\Debug\HW2_sabid.exe
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\HW2_sabid\obj\Debug\HW2_sabid.pdb
