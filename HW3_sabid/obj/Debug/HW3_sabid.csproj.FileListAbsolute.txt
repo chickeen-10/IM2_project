@@ -1,0 +1,7 @@
+C:\Users\KEEN\Downloads\HW3_sabid\bin\Debug\HW3_sabid.exe.config
+C:\Users\KEEN\Downloads\HW3_sabid\bin\Debug\HW3_sabid.exe
+C:\Users\KEEN\Downloads\HW3_sabid\bin\Debug\HW3_sabid.pdb
+C:\Users\KEEN\Downloads\HW3_sabid\obj\Debug\HW3_sabid.csproj.AssemblyReference.cache
+C:\Users\KEEN\Downloads\HW3_sabid\obj\Debug\HW3_sabid.csproj.CoreCompileInputs.cache
+C:\Users\KEEN\Downloads\HW3_sabid\obj\Debug\HW3_sabid.exe
+C:\Users\KEEN\Downloads\HW3_sabid\obj\Debug\HW3_sabid.pdb
