@@ -1,0 +1,11 @@
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\bin\Debug\HW4_sabid.exe.config
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\bin\Debug\HW4_sabid.exe
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\bin\Debug\HW4_sabid.pdb
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\obj\Debug\HW4_sabid.csproj.AssemblyReference.cache
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\obj\Debug\HW4_sabid.Form1.resources
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\obj\Debug\HW4_sabid.Properties.Resources.resources
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\obj\Debug\HW4_sabid.csproj.GenerateResource.cache
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\obj\Debug\HW4_sabid.csproj.CoreCompileInputs.cache
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\obj\Debug\HW4_sabid.exe
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\obj\Debug\HW4_sabid.pdb
+C:\Users\KEEN\Downloads\BSIT 2025\IM2\IM2_project\HW4_sabid\HW4_sabid\obj\Debug\HW4_sabid.Form2.resources
